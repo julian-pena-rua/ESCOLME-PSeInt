@@ -1,8 +1,8 @@
 Algoritmo PruebasInterfazUsuario
 	Escribir "********************" Sin Saltar
-	Escribir "CONVENIO" " SENA-IUSH" Sin Saltar
+	Escribir "       ESCOLME      " Sin Saltar
 	Escribir "********************"
-	Escribir "Fecha: 16//06/2021" sin saltar
+	Escribir "Fecha: 06//08/2024" sin saltar
 	Escribir "                  " Sin Saltar
 	Escribir "N ",000,"-",30,"(ID:)",30 
 	Escribir "********************" Sin Saltar

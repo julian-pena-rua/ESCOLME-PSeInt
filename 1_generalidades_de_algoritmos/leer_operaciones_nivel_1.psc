@@ -1,6 +1,6 @@
 Algoritmo SaludarUsuario
-	Escribir "Bienvenido al CONVENIO SENA-IUSH"	
-	Escribir "¿Cuál es su nombre?"
+	Escribir "Bienvenido al ESCOLME"	
+	Escribir "ï¿½Cuï¿½l es su nombre?"
 	Leer nombre
 	Escribir "Hola: " Sin Saltar
 	Escribir nombre

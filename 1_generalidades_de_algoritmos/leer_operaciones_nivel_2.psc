@@ -1,6 +1,6 @@
 Algoritmo OperacionesBasicas
-	Escribir "Programando con el CONVENIO SENA-IUSH"	
-	Escribir "Realizando operaciones con 3 numeros, ingrese uno después de enter"
+	Escribir "Programando con ESCOLME"	
+	Escribir "Realizando operaciones con 3 numeros, ingrese uno despuï¿½s de enter"
 	Leer numero1
 	Leer numero2
 	Leer numero3

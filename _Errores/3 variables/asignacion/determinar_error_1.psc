@@ -1,5 +1,5 @@
 Algoritmo Determinar_Error_1
-	variable_titulo = "Sena";
+	variable_titulo = "ESCOLME";
 	variable_tutor = "Julian Pe�a"; 
 	Escribir varaible_titulo + variable_tutor;
 FinAlgoritmo

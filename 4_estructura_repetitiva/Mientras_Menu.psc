@@ -1,16 +1,16 @@
 Algoritmo MenuPrincipal
-	Escribir "Bienvenido al menu del programa SENA"	
-	Escribir "Seleccione una opción (i)ingresar o (s)salir"
+	Escribir "Bienvenido al menu del programa ESCOLME"	
+	Escribir "Seleccione una opciï¿½n (i)ingresar o (s)salir"
 	Leer  variableOpcion
 	Si (variableOpcion = "") Entonces
-		Escribir  "No has seleccionado una opción. Se saldrá del programa"
+		Escribir  "No has seleccionado una opciï¿½n. Se saldrï¿½ del programa"
 		variableOpcion = "s"
 	FinSi		
 	Mientras (variableOpcion <> ""  ) Hacer
 		Si (variableOpcion = 'i') Entonces
-			Escribir "Has ingresado al programa, ¿te gustaría profundizar en algún tema?"
+			Escribir "Has ingresado al programa, ï¿½te gustarï¿½a profundizar en algï¿½n tema?"
 			Leer materiaProfundizar
-			Escribir "Genial", " también me encanta ese tema"
+			Escribir "Genial", " tambiï¿½n me encanta ese tema"
 			variableOpcion=""
 		FinSi
 		Si (variableOpcion = 's') Entonces

@@ -1,5 +1,5 @@
 Algoritmo Determinar_Error_2
-	"Hola Participantes del Sena";
+	"Hola Participantes del ESCOLME";
 FinAlgoritmo
 
 

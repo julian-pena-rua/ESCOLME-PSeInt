@@ -1,4 +1,4 @@
-# PSeInt - Aprendiendo a Programar
+# PSeInt - Curso de Algoritmos
 
 <p align="center">
     <br>
@@ -9,19 +9,20 @@
 </p>
 
 
-<h3 align="center">Este proyecto tiene como objetivo enseñar a programar utilizando el lenguaje PSeInt. 
-Está dirigido a adultos en programas técnicos y universidades em ciberseguridad.</h3>
+<h3 align="center">Este curso está diseñado para quienes desean mejorar en el campo de los sistemas y dar sus primeros pasos en la programación mediante el uso del lenguaje PSeInt o Pseudo Código. A lo largo de las sesiones, los estudiantes comprenderán los fundamentos esenciales para la construcción de aplicaciones, adquiriendo las habilidades necesarias para resolver problemas de forma lógica y estructurada.
+
+Además, el curso explora la relación entre los algoritmos y la ciberseguridad, proporcionando una base sólida para comprender cómo los algoritmos seguros son vitales en la protección de datos y sistemas. Este enfoque no solo prepara a los estudiantes para enfrentarse a desafíos en el ámbito laboral, sino que también abre la puerta a oportunidades de crecimiento profesional en un campo cada vez más demandado.</h3>
 
 
 <p align="center">
     <br>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="Última versión"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.2.0-green"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="total descargas"><img src="https://img.shields.io/github/downloads/julian-pena-rua/sena-pseint/total"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/commits/main" title="Últimos cambios"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Lenguaje"><img src="https://img.shields.io/github/languages/top/julian-pena-rua/SENA-PSEint"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Visitas"><img src="https://img.shields.io/github/search/julian-pena-rua/SENA-PSEint/goto"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Tamaño proyecto"><img src="https://img.shields.io/github/repo-size/julian-pena-rua/SENA-PSEint"></a>
-    <a href="LICENSE.md" title="Licencia del software"><img src="https://img.shields.io/github/license/julian-pena-rua/SENA-PSeint"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/tree/main/" title="Última versión"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.0.0-green"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/tree/main/" title="total descargas"><img src="https://img.shields.io/github/downloads/julian-pena-rua/ESCOLME-pseint/total"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/commits/main" title="Últimos cambios"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/" title="Lenguaje"><img src="https://img.shields.io/github/languages/top/julian-pena-rua/ESCOLME-PSEint"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/" title="Visitas"><img src="https://img.shields.io/github/search/julian-pena-rua/ESCOLME-PSEint/goto"></a>
+    <a href="https://github.com/julian-pena-rua/ESCOLME-PSEint/" title="Tamaño proyecto"><img src="https://img.shields.io/github/repo-size/julian-pena-rua/ESCOLME-PSEint"></a>
+    <a href="LICENSE.md" title="Licencia del software"><img src="https://img.shields.io/github/license/julian-pena-rua/ESCOLME-PSeint"></a>
 </p>
 
 
@@ -72,15 +73,13 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 
 ## Directorio del proyecto
 
-- `/escribir`:              7 Ejercicios y ejemplos relacionados con la salida de datos.
-- `/variables`:             19 Ejercicios y ejemplos relacionados con la salida de datos.
-- `/leer`:                  13 Ejercicios y ejemplos relacionados con la entrada de datos.
-- `/decision`:              27 Ejercicios y ejemplos relacionados con las decisiones condicionales.
-- `/ciclos`:                31 Ejercicios y ejemplos relacionados con los ciclos.
-- `/vectores y matrices`:   12 Ejercicios y ejemplos relacionados con vectores y matrices.
-- `/animaciones`:           6 archivos de animaciones ascii.
-- `/subalgoritmos`:         2 Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
+- `/generalidades_de_algoritmos`:              Ejercicios y ejemplos relacionados con la salida y entrada de datos.
+- `/estructura_secuencial`:              Ejercicios y ejemplos relacionados con las decisiones condicionales.
+- `/estructura_repetitiva`:                Ejercicios y ejemplos relacionados con los ciclos.
+- `/arreglos_y_vectores`:   Ejercicios y ejemplos relacionados con vectores.
+- `/arreglos_y_matrices`:   Ejercicios y ejemplos relacionados con matrices.
 - `/errores`:               Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
+- `/bonus`:   Ejercicios y ejemplos relacionados a ciberseguridad.
 - `/Programa Completo`:     Contiene ideas de negocio en casos reales.
 
 ## Licencia
@@ -90,7 +89,7 @@ Este proyecto se distribuye bajo la licencia Creative Commons. Puedes consultar 
 ## Autor
 
 - Nombre: Julian A. Peña
-- Email: julian.pena@hotmail.com
+- Email: japenar@escolme.edu.co
 - Sitio web: [julian-pena-rua.dev](https://julian-pena-rua.github.io/cv/)
 
 ## Agradecimientos

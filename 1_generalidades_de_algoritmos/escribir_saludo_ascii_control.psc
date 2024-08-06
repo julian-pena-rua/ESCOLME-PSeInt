@@ -1,13 +1,13 @@
 Algoritmo saludoMenu
 	
-	Escribir "Bienvenido al programa de formación convenio SENA-IUSH"
+	Escribir "Bienvenido al programa de formaciï¿½n ESCOLME"
 	Escribir ""
 	Escribir ""
 	Escribir ""
 	Escribir "     []  ,----.___"
 	Escribir "   __||_/___      ."
 	Escribir "  / O||    /|       )"
-	Escribir " /   ¨¨   / /   =._/"
+	Escribir " /   ï¿½ï¿½   / /   =._/"
 	Escribir "/________/ /"
-	Escribir "|________|/   Julian Peña"
+	Escribir "|________|/   Julian PeÃ±a"
 FinAlgoritmo
