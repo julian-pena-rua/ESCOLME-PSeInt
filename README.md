@@ -30,22 +30,34 @@ Además, el curso explora la relación entre los algoritmos y la ciberseguridad,
 ## Índice
 
 1. [Descripción](#descripción)
-2. [Instrucciones de instalación](#instrucciones-de-instalación)
-3. [Ejemplos de uso](#ejemplos-de-uso)
-4. [Contribución](#contribución)
-5. [Directorio del proyecto](#directorio-del-proyecto)
-6. [Licencia](#licencia)
-7. [Autor](#autor)
-8. [Agradecimientos](#agradecimientos)
-9. [Enlaces útiles](#enlaces-útiles)
+2. [Estructura del curso](#estructura-del-curso)
+3. [Instrucciones de instalación](#instrucciones-de-instalación)
+4. [Ejemplos de uso](#ejemplos-de-uso)
+5. [Contribución](#contribución)
+6. [Directorio del proyecto](#directorio-del-proyecto)
+7. [Licencia](#licencia)
+8. [Autor](#autor)
+9. [Agradecimientos](#agradecimientos)
+10. [Enlaces útiles](#enlaces-útiles)
 
 ## Descripción
 
 Este proyecto se centra en la enseñanza de la programación utilizando el lenguaje PSeInt. Proporciona ejercicios prácticos y ejemplos de código para ayudar a los estudiantes a comprender los conceptos básicos de la programación.
 
+## Estructura del curso
+- **Módulo 1**: Generalidades de algoritmos
+- **Módulo 2**: Estructura secuencial
+- **Módulo 3**: Estructura condicional
+- **Módulo 4**: Estructura repetitiva
+- **Módulo 5**: Arreglos y vectores
+- **Módulo 6**: Arreglos y matrices
+- **Módulo 7**: Registros
+- **Módulo 8**: Archivos
+- **Módulo IX**: Programas completos
+
 ## Instrucciones de instalación
 
-1. Descarga e instala PSeInt desde [sitio web oficial](https://www.pseint.net/).
+1. Descarga e instala PSeInt desde [versión online](https://www.rollapp.com/app/pseint).
 2. Clona o descarga este repositorio en tu máquina local.
 3. Abre los archivos `.psc` en PSeInt para acceder a los ejercicios y ejemplos.
 
@@ -53,9 +65,9 @@ Este proyecto se centra en la enseñanza de la programación utilizando el lengu
 
 Aquí tienes algunos ejemplos de cómo utilizar el lenguaje PSeInt para resolver problemas simples:
 
-- [Ejemplo 1: Escribir en pantalla](1-escribir-imprimir-mostrar/Escribir_SaludoParticipantes.psc)
-- [Ejemplo 2: Decisión condicional](4-decision/Si/Comparar_dos_numeros.psc)
-- [Ejemplo 3: Ciclo repetitivo](5-ciclos/Mientras_Menu.psc)
+- [Ejemplo 1: Escribir en pantalla](1_generalidades_de_algoritmos/escribir_operaciones_simples.psc)
+- [Ejemplo 2: Decisión condicional](2-estructura_secuencial/Si/Comparar_dos_numeros.psc)
+- [Ejemplo 3: Ciclo repetitivo](4_estructura_repetitiva/Mientras_Menu.psc)
 
 
 Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto.
