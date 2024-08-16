@@ -45,15 +45,15 @@ Además, el curso explora la relación entre los algoritmos y la ciberseguridad,
 Este proyecto se centra en la enseñanza de la programación utilizando el lenguaje PSeInt. Proporciona ejercicios prácticos y ejemplos de código para ayudar a los estudiantes a comprender los conceptos básicos de la programación.
 
 ## Estructura del curso
-- **Módulo 1**: Generalidades de algoritmos
-- **Módulo 2**: Estructura secuencial
-- **Módulo 3**: Estructura condicional
-- **Módulo 4**: Estructura repetitiva
-- **Módulo 5**: Arreglos y vectores
-- **Módulo 6**: Arreglos y matrices
-- **Módulo 7**: Registros
-- **Módulo 8**: Archivos
-- **Módulo IX**: Programas completos
+- **Módulo 1**: [Generalidades de algoritmos](1_generalidades_de_algoritmos/README.md)
+- **Módulo 2**: [Estructura secuencial](2_estructura_secuencial/README.md)
+- **Módulo 3**: [Estructura condicional](3_estructura_condicional/README.md)
+- **Módulo 4**: [Estructura repetitiva](4_estructura_repetitiva/README.md)
+- **Módulo 5**: [Arreglos y vectores](5_arreglos_y_vectores/README.md)
+- **Módulo 6**: [Arreglos y matrices](6_arreglos_y_matrices/README.md)
+- **Módulo 7**: [Registros](7_registros/README.md)
+- **Módulo 8**: [Archivos](8_archivos/README.md)
+- **Módulo IX**: [Programas completos](9-ProgramaCompleto/README.md)
 
 ## Instrucciones de instalación
 
