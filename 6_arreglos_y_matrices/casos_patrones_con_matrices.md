@@ -16,7 +16,7 @@ X             X
 X X X X X X X X
 ```
 
-## ibujo de una Pirámide en una Matriz 7x7
+## Dibujo de una Pirámide en una Matriz 7x7
 
 Descripción del ejercicio:
 
@@ -24,10 +24,39 @@ Crear un algoritmo que genere una matriz de 7x7 y ubique la letra "X" en posicio
 
 Salida esperada:
 ```
-     X      
+      X      
     X X X    
   X X X X X  
 X X X X X X X
+```
+
+## Dibujo de un Triángulo Invertido en una Matriz 7x7
+
+Descripción del ejercicio:
+
+Crear un algoritmo que genere una matriz de 7x7 y ubique la letra "X" en posiciones que formen un triángulo invertido.
+
+Salida esperada:
+```
+X X X X X X X
+  X X X X X  
+    X X X    
+      X 
+```
+
+## Dibujo de un Triángulo Rectángulo en una Matriz 5x5
+
+Descripción del ejercicio:
+
+Crear un algoritmo que genere una matriz de 5x5 y ubique la letra "X" en posiciones que formen un triángulo rectángulo con la hipotenusa orientada desde la esquina superior izquierda hacia la esquina inferior derecha.
+
+Salida esperada:
+```
+X
+X X
+X X X
+X X X X
+X X X X X
 ```
 
 ## Dibujo de una Letra Z en una Matriz 7x7
@@ -45,19 +74,4 @@ X X X X X X X
   X          
 X            
 X X X X X X X
-```
-
-## Dibujo de un Triángulo Rectángulo en una Matriz 5x5
-
-Descripción del ejercicio:
-
-Crear un algoritmo que genere una matriz de 5x5 y ubique la letra "X" en posiciones que formen un triángulo rectángulo con la hipotenusa orientada desde la esquina superior izquierda hacia la esquina inferior derecha.
-
-Salida esperada:
-```
-X
-X X
-X X X
-X X X X
-X X X X X
 ```
