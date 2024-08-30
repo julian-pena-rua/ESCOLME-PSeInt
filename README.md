@@ -85,14 +85,24 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 
 ## Directorio del proyecto
 
+### Nivel básico
 - `/generalidades_de_algoritmos`:              Ejercicios y ejemplos relacionados con la salida y entrada de datos.
 - `/estructura_secuencial`:              Ejercicios y ejemplos relacionados con las decisiones condicionales.
+
+### Nivel intermedio
 - `/estructura_repetitiva`:                Ejercicios y ejemplos relacionados con los ciclos.
 - `/arreglos_y_vectores`:   Ejercicios y ejemplos relacionados con vectores.
 - `/arreglos_y_matrices`:   Ejercicios y ejemplos relacionados con matrices.
+
+### Nivel avanzado
+- `/registros`:                Manipulación de datos, uso y acceso.
+- `/archivos`:   Envío y lectura de datos en archivos de texto plano.
+- `/Programa Completo`:     Contiene ideas de negocio en casos reales.
+
+### Otras
 - `/errores`:               Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
 - `/bonus`:   Ejercicios y ejemplos relacionados a ciberseguridad.
-- `/Programa Completo`:     Contiene ideas de negocio en casos reales.
+
 
 ## Licencia
 
