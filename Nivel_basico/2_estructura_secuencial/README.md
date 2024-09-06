@@ -3,7 +3,7 @@
 
 # Módulo 2: Estructura Secuencial
 
-![Imagen de Ejemplo](recursos/img/algoritmo.png)
+![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
 
 ## Requisitos Previos
 - Conocimiento básico de algoritmos y programación.

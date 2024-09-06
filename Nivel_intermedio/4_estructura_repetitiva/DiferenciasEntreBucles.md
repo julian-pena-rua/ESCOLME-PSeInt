@@ -4,7 +4,7 @@
 # Tema: Diferencias Clave entre los Bucles Mientras, Repetir Hasta Que, y Para
 
 
-![Imagen de Ejemplo](recursos/img/algoritmo.png)
+![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
 
 ## Requisitos Previos
 

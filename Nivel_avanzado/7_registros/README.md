@@ -3,7 +3,7 @@
 
 # Tema: Manejo de Registros en Programación
 
-![Imagen de Ejemplo](recursos/img/algoritmo.png)
+![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
 
 ## Requisitos Previos
 

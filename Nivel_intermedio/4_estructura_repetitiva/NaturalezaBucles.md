@@ -3,7 +3,7 @@
 
 # Tema: Naturaleza de un bucle u otro
 
-![Imagen de Ejemplo](recursos/img/algoritmo.png)
+![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
 
 ## Requisitos Previos
 
