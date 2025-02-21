@@ -3,7 +3,7 @@
 
 # Módulo 1: Generalidades de Algoritmos
 
-![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
+![Imagen de Ejemplo](../../recursos/img/algoritmo-introduccion.png)
 
 ## Requisitos Previos
 - Tener conocimiento básico o nulo sobre algoritmos y programación.

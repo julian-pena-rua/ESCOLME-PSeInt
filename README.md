@@ -3,7 +3,7 @@
 <p align="center">
     <br>
     <br>
-    <a href="https://julian-pena-rua.github.io/cv/" title="Logo del proyecto"><img src="recursos/img/Logo2.png"></a>
+    <a href="https://julian-pena-rua.github.io/cv/" title="Logo del proyecto"><img src="recursos/img/algoritmo-introduccion.png"></a>
     <br>
     <br>
 </p>
@@ -47,19 +47,21 @@ Este proyecto se centra en la enseñanza de la programación utilizando el lengu
 ## Estructura del curso
 
 ### Nivel básico
-- **Módulo 1**: [Generalidades de algoritmos](1_generalidades_de_algoritmos/README.md)
-- **Módulo 2**: [Estructura secuencial](2_estructura_secuencial/README.md)
-- **Módulo 3**: [Estructura condicional](3_estructura_condicional/README.md)
+- **Módulo 1**: [Generalidades de algoritmos](Nivel_basico/1_generalidades_de_algoritmos/README.md)
+- **Módulo 2**: [Estructura secuencial](Nivel_basico/2_estructura_secuencial/README.md)
+- **Módulo 3**: [Estructura condicional](Nivel_basico/3_estructura_condicional/README.md)
 
 ### Nivel intermedio
-- **Módulo 4**: [Estructura repetitiva](4_estructura_repetitiva/README.md)
-- **Módulo 5**: [Arreglos y vectores](5_arreglos_y_vectores/README.md)
-- **Módulo 6**: [Arreglos y matrices](6_arreglos_y_matrices/README.md)
+- **Módulo 4**: [Estructura repetitiva](Nivel_intermedio/4_estructura_repetitiva/README.md)
+- **Módulo 5**: [Arreglos y vectores](Nivel_intermedio/5_arreglos_y_vectores/README.md)
+- **Módulo 6**: [Arreglos y matrices](Nivel_intermedio/6_arreglos_y_matrices/README.md)
 
 ### Nivel avanzado
-- **Módulo 7**: [Registros](7_registros/README.md)
-- **Módulo 8**: [Archivos](8_archivos/README.md)
-- **Módulo IX**: [Programas completos](9-ProgramaCompleto/README.md)
+- **Introducción**: [Introducción](Nivel_avanzado/0_Introduccion/README.md)
+- **Módulo 7**: [Registros](Nivel_avanzado/7_registros/README.md)
+- **Módulo 8**: [Archivos](Nivel_avanzado/8_archivos/README.md)
+- **Módulo IX**: [Programas completos](Nivel_avanzado/9-ProgramaCompleto/README.md)
+- **Módulo X**: [Programación orientada a objetos](Nivel_avanzado/_POO/README.md)
 
 ## Instrucciones de instalación
 

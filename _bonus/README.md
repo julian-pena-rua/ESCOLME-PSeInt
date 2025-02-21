@@ -1,4 +1,8 @@
-# CASOS PARA RESOLVER EN PSEINT
+
+
+# CASOS PARA RESOLVER
+
+![Codificando](../recursos/img/algoritmos-bonus.jpg)
 
 ## Bloque empresarial
 
@@ -174,6 +178,8 @@
 
 - Descripción: Una empresa de servicios desea gestionar los turnos de trabajo de sus empleados, asegurándose de que siempre haya personal disponible. El sistema debe revisar los turnos asignados y reasignar empleados si hay vacantes o ausencias.
 - Requisitos: Utilizar estructuras repetitivas para revisar los turnos y estructuras de decisión para reasignar personal según las necesidades.
+
+![Ciberseguridad](../recursos/img/algoritmos-ciberseguridad.jpg)
 
 ## Bloque ciberseguridad
 

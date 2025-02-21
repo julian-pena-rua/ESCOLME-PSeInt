@@ -3,7 +3,7 @@
 
 # Tema: Acceso y manejo de archivos
 
-![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
+![Imagen de Ejemplo](../../recursos/img/algoritmos-avanzado-archivos.jpg)
 
 ## Requisitos Previos
 - Conocimiento básico de algoritmos y programación.

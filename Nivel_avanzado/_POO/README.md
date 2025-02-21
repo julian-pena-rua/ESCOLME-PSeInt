@@ -3,7 +3,7 @@
 
 # Tema: Introducción a la Programación Orientada a Objetos en C#
 
-![Imagen de Ejemplo](../../recursos/img/algoritmo.jpg)
+![Imagen de Ejemplo](../../recursos/img/programación%20orientada%20a%20objetos.jpg)
 
 ## Requisitos Previos
 - Conocimiento básico de algoritmos y programación.
