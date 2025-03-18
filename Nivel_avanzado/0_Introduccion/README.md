@@ -109,6 +109,121 @@ class HolaMundo {
 }
 ```
 
+### Estructura de decisión IF (Si)
+
+Codigo PSeint
+```
+Algoritmo HolaMundo
+    // Realizar una búsqueda de una prenda por su código
+    Escribir("Bienvenido al almacén de ropa")
+    Escribir("Ingrese el código de la prenda:")
+    Leer(codigo)
+    
+    si codigo = "1234" entonces
+        Escribir("La prenda corresponde a una camiseta")
+    sino si codigo = "5678" entonces
+        Escribir("La prenda corresponde a un pantalón")
+    sino
+        Escribir("La prenda no fue encontrada")
+    fin si
+FinAlgoritmo
+```
+
+Codigo C#
+```
+using System;
+class HolaMundo {
+  static void Main() { // Inicio algoritmo
+	  // Realizar una búsqueda de una prenda por su código
+    Console.WriteLine("Bienvenido al almacén de ropa");
+    Console.WriteLine("Ingrese el código de la prenda:")
+    int codigo = int.Parse(Console.ReadLine());
+    
+    if(codigo == 1234){
+      Console.WriteLine("La prenda corresponde a una camiseta");
+    }else if(codigo == 5678){
+        Console.WriteLine("La prenda corresponde a un pantalón");
+    }
+    else{
+      Console.WriteLine("La prenda no fue encontrada");
+    }
+  }// FinAlgoritmo
+}
+```
+
+La línea `if(codigo == 1234)` es una instrucción de decisión que evalúa si `codigo` es igual a 1234. Si es así, se ejecuta el bloque de código que sigue a la instrucción `if`. Si no es así, se evalúa la instrucción `else if(codigo == 5678)`, y así sucesivamente. Si ninguna de las condiciones se cumple, se ejecuta el bloque de código que
+sigue a la instrucción `else`.
+El siguiente fragmento:
+```
+    int codigo = int.Parse(Console.ReadLine());
+```
+Esta línea significa:
+**int codigo** : Declara una variable llamada `codigo` de tipo entero (int).
+**int.Parse(Console.ReadLine())**: Lee una línea de texto desde la consola y la conviert
+en un entero (int). 
+
+### Estructura repetitiva FOR (Para)
+Codigo PSeint
+```
+Algoritmo ContadorHastaCien
+	Para i<-1 Hasta 100 Con Paso 1 Hacer
+		Escribir "El valor actual es: " i
+	Fin Para
+FinAlgoritmo
+
+
+FinAlgoritmo
+```
+
+Codigo C#
+```
+using System;
+class ContadorHastaCien {
+  static void Main() { // Inicio algoritmo
+    for(int i = 0; i <= 100; i = i +1) {
+       Console.WriteLine("El valor actual es: " + i);
+    }
+  }// FinAlgoritmo
+}
+```
+
+
+
+### Estructura repetitiva While (Mientras)
+Codigo PSeint
+```
+Algoritmo ContarPares
+    ContadorPares = 0
+    Definir Numero como Entero
+    Leer Numero
+    Mientras Numero <> 0 hacer
+        Si Numero % 2 = 0 entonces
+            ContadorPares = ContadorPares + 1
+        FinSi
+        Leer Numero
+    FinMientras
+    Escribir "Cantidad de números pares:", ContadorPares
+FinAlgoritmo
+```
+
+Codigo C#
+```
+using System;
+class ContarPares {
+  static void Main() { // Inicio algoritmo
+	  int ContadorPares = 0;
+    int Numero = Console.ReadLine();
+    while(Numero <> 0){
+      if (Numero % 2 == 0){
+        ContadorPares = ContadorPares + 1;
+      }
+      Numero = Console.ReadLine();
+    }
+  }// FinAlgoritmo
+}
+```
+
+La instrucción **if (Numero % 2 == 0)** verifica si el número es par, y si es así, incrementa el contador de pares. La instrucción **while (Numero <> 0)** repite el proceso hasta que el usuario ingrese un número cero.
 
 ## Contribuciones
 Si deseas contribuir con ejemplos o ejercicios para este módulo, por favor sigue las instrucciones de contribución.
